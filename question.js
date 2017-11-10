@@ -11,7 +11,7 @@ class Question {
 
   constructor(content){
     this.content = content;
-    save(this);
+    this.save();
   }
 }
 
