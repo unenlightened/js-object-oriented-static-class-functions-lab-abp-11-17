@@ -6,10 +6,9 @@ class Question {
   }
 
   save(){
-    
+
   }
 }
 
 Question._All = [];
 
-Question._All.push(save);
