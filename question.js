@@ -9,8 +9,8 @@ class Question {
     Question._All.push(this);
   }
 
-  constructor(){
-    return this._All;
+  constructor(content){
+    return content;
   }
 }
 
