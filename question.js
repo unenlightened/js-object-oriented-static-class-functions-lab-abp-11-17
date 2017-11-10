@@ -10,7 +10,7 @@ class Question {
   }
 
   constructor(content){
-    return content;
+    this.content = content;
   }
 }
 
