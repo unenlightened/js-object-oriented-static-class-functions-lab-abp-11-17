@@ -13,6 +13,10 @@ class Question {
     this.content = content;
     this.save();
   }
+
+  static find(id){
+    
+  }
 }
 
 Question._All = [];
