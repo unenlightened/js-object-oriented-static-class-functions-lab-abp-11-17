@@ -8,4 +8,4 @@ class Question {
 
 Question._All = [];
 
-Question.save();
+Question._All.push(save);
