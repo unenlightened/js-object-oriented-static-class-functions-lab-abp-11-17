@@ -6,7 +6,11 @@ class Question {
   }
 
   save(){
-    Question._All.push(this)
+    Question._All.push(this);
+  }
+
+  constructor(){
+    return this;
   }
 }
 
