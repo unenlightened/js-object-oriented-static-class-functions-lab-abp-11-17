@@ -14,7 +14,7 @@ class Question {
     this.save();
   }
 
-  static find(id){
+  static Find(id){
     
   }
 }
