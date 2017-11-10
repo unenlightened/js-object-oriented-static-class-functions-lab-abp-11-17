@@ -6,9 +6,8 @@ class Question {
   }
 
   save(){
-
+    User._All.push(this)
   }
 }
 
 Question._All = [];
-
