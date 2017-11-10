@@ -10,7 +10,7 @@ class Question {
   }
 
   constructor(){
-    return this;
+    return this._All;
   }
 }
 
